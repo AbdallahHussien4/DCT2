@@ -2,7 +2,7 @@
 It's an image compression algorithm using 2D Discrete Cosine Transform using Matlab as following.
 
 
-a) Read the image file ‘image1.bmp’. Extract and display each of its three color components.
+a) Read the image file ‘image1.bmp’(1920*1080). Extract and display each of its three color components.
 Repeat the following steps for m=1,2,3,4.
 
 b) To compress the image, process each color component in blocks of 8×8 pixels. Obtain 2D
